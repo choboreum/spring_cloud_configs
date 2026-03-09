@@ -1,0 +1,2 @@
+jwt:
+  secret: lg_cns_am_inspire_04_project_secret_key_for_jwt
